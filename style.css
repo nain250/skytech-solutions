@@ -167,3 +167,33 @@ body {
   color: #b33;
   margin-left: 4px;
 }
+
+.footer {
+  background-color: #ede5dd;
+  color: #4b3f33;
+  padding: 40px 20px;
+  text-align: center;
+  font-family: 'Noto Sans JP', sans-serif;
+  border-top: 1px solid #d5cfc5;
+}
+
+.footer-logo {
+  font-weight: bold;
+  font-size: 1.4rem;
+  margin-bottom: 10px;
+}
+
+.footer-links {
+  margin-top: 10px;
+}
+
+.footer-links a {
+  margin: 0 10px;
+  color: #4b3f33;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
